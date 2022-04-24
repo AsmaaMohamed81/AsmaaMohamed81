@@ -2,9 +2,9 @@
 
 ![DSC_4619](https://user-images.githubusercontent.com/30462427/154833493-12c9b79c-da63-4157-bf09-8d37795b7d81.JPG)
 
-## I am a Mobile Developer at Ingaz-Web, Android Developer and Flutter Developer, GDG Organizer and Instructor.
+## I am a Mobile Developer at Ingaz-Web, Android Developer and Flutter Developer.
 
-I had a lot of Mobile Applications in play store and app store like  Zahey-Store , Zahey-Dashboard-Android , Zahey-Dashboard-IOS , Kafey-Android , Kafey-IOS , Tadween , nartaqy-Android , nartaqy-ios , TM_QTR , Elkenany , Dalil-AlShrouq.
+I had a lot of Mobile Applications in play store and app store like  Zahey-Store .
 
 
 - 🔭 I’m currently working as a ** Mobile Developer |  at [Ingaz-Web](https://www.ingazweb.com/).
